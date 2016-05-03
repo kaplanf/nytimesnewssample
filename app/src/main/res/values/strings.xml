@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NewYorkTimesNews</string>
+    <string name="loading">Loading..</string>
+    <string name="title_main">Top Sport Stories</string>
+    <string name="fetch_news">Click to gather news</string>
+    <string name="no_description">Description not provided</string>
+    <string name="no_title">No Title Provided</string>
+</resources>
